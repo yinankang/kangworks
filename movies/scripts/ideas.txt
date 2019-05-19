@@ -1,0 +1,11 @@
+feature ideas: 
+
+Quantify director achievement 
+Quantify director popularity at date
+
+Quantify actor achievement
+Quantify actor popularity at date
+
+Add feature of supporting cast prowess 
+
+Add feature of storyline/genre
